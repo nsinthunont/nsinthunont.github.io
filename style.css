@@ -9,5 +9,7 @@ body {
 
 /* Basic styling */
 .jumbotron {
-  background-image: url("cover_1.jpg");
+	padding: 250px 0;
+	margin: 30px;
+  	background-image: url("cover_1.jpg");
 }
