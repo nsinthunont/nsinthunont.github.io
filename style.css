@@ -9,7 +9,9 @@ body {
 
 /* Basic styling */
 .jumbotron {
-	padding: 250px 0;
-	margin: 30px;
-  	background-image: url("cover_1.jpg");
+ 	background: url(cover_1.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+	background-size: cover;
 }
