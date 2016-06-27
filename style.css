@@ -1,4 +1,10 @@
 /* Initial body */
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
 
 
 /* Basic styling */
