@@ -3,6 +3,6 @@
 /* Basic styling */
 .jumbotron {
 	height: 100%;
- 	background: url(cover_1.jpg) no-repeat center center fixed; 
+ 	background: url("https://cdn1.matadornetwork.com/blogs/1/2014/05/bangkok-moon.jpg") no-repeat center center fixed; 
 	background-size: cover;
 }
