@@ -1,7 +1,7 @@
 /* Initial body */
 
 /* Basic styling */	
-body{
+.jumbotron{
   background: url(cover_2.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
