@@ -9,6 +9,21 @@ body{
   background-size: cover;
 }
 
+.main-title {
+  font-size: 16px;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
 .icon-menu {
   color: #fff;
   cursor: pointer;
