@@ -22,12 +22,7 @@ body{
   left: 0;
   right: 0;
   margin: auto;
-  text-align: center;
-}
-
-span {
-  height: 100px;
-  display: inline-block;
-  vertical-align: middle;
-  line-height: normal;      
+  text-align: center; 
+  display: table-cell;
+  vertical-align: middle; 
 }
